@@ -1,0 +1,7 @@
+public class KOundinya
+{
+ public Static void main(String args[])
+ {
+  System.out.println("Wavelabs");
+ }
+}
